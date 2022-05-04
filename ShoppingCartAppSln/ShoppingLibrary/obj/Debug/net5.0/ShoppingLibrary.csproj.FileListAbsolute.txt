@@ -1,0 +1,12 @@
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.deps.json
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.dll
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\bin\Debug\net5.0\ShoppingLibrary.pdb
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.AssemblyReference.cache
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfoInputs.cache
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.AssemblyInfo.cs
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.dll
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\refint\ShoppingLibrary.dll
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ShoppingLibrary.pdb
+C:\Users\andisiwe\source\repos\shopping-cart\ShoppingCartAppSln\ShoppingLibrary\obj\Debug\net5.0\ref\ShoppingLibrary.dll
